@@ -1,0 +1,42 @@
+[
+  {
+    "username": "john_doe",
+    "serialnumber": "SN123",
+    "fingerprint_id": 1,
+    "checkindate": "2024-01-31",
+    "timein": "08:30:00 AM",
+    "timeout": "12:30:00 PM"
+  },
+  {
+    "username": "jane_doe",
+    "serialnumber": "SN456",
+    "fingerprint_id": 2,
+    "checkindate": "2024-01-31",
+    "timein": "09:00:00 AM",
+    "timeout": "01:00:00 PM"
+  },
+  {
+    "username": "bob_smith",
+    "serialnumber": "SN789",
+    "fingerprint_id": 3,
+    "checkindate": "2024-01-31",
+    "timein": "10:15:00 AM",
+    "timeout": "02:30:00 PM"
+  },
+  {
+    "username": "alice_jones",
+    "serialnumber": "SN101",
+    "fingerprint_id": 4,
+    "checkindate": "2024-01-31",
+    "timein": "11:45:00 AM",
+    "timeout": "03:45:00 PM"
+  },
+  {
+    "username": "charlie_brown",
+    "serialnumber": "SN202",
+    "fingerprint_id": 5,
+    "checkindate": "2024-01-31",
+    "timein": "01:30:00 PM",
+    "timeout": ""
+  }
+]

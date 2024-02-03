@@ -1,0 +1,52 @@
+[
+  {
+    "username": "john_doe",
+    "serialnumber": "SN123",
+    "gender": "male",
+    "fingerprint_id": 1,
+    "fingerprint_select": 1,
+    "email": "john_doe@example.com",
+    "timein": "09:30 AM",
+    "regDate": "2022-01-15"
+  },
+  {
+    "username": "jane_doe",
+    "serialnumber": "SN456",
+    "gender": "female",
+    "fingerprint_id": 2,
+    "fingerprint_select": 1,
+    "email": "jane_doe@example.com",
+    "timein": "10:45 AM",
+    "regDate": "2022-02-28"
+  },
+  {
+    "username": "user3",
+    "serialnumber": "SN789",
+    "gender": "male",
+    "fingerprint_id": 3,
+    "fingerprint_select": 0,
+    "email": "user3@example.com",
+    "timein": "12:00 PM",
+    "regDate": "2022-03-10"
+  },
+  {
+    "username": "admin",
+    "serialnumber": "SN987",
+    "gender": "male",
+    "fingerprint_id": 4,
+    "fingerprint_select": 1,
+    "email": "admin@example.com",
+    "timein": "08:15 AM",
+    "regDate": "2022-04-22"
+  },
+  {
+    "username": "user5",
+    "serialnumber": "SN654",
+    "gender": "female",
+    "fingerprint_id": 5,
+    "fingerprint_select": 1,
+    "email": "user5@example.com",
+    "timein": "03:30 PM",
+    "regDate": "2022-05-05"
+  }
+]
